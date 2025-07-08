@@ -1,10 +1,12 @@
-print(1)
-print(2)
-def add(a,b):
-    print("sum is : "+str(a+b))
+
+<<<<<<< HEAD
+
 <<<<<<< HEAD
 
 =======
 
 
+>>>>>>> b1
+=======
+#nothing
 >>>>>>> b1
