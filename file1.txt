@@ -1,3 +1,1 @@
-hi everyone
-
-removed hello msg
+hello hi to everyone
