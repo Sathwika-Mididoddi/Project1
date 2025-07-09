@@ -10,7 +10,7 @@ async function askLLM() {
         { role: 'user', content: 'What is a black hole?' }
       ]
     });
-
+    console.log("Output");
     console.log("AI response:", response.message.content);
   } catch (err) {
     console.error("❌ Error talking to Ollama:", err.message);
